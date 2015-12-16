@@ -1,0 +1,33 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+		"Package Control"
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AngularJS",
+		"CodeFormatter",
+		"ColorPicker",
+		"Default",
+		"Emmet",
+		"IMESupport",
+		"jQuery",
+		"JsFormat",
+		"Nil-Theme",
+		"Nodejs",
+		"Package Control",
+		"PyV8",
+		"QuoteHTML",
+		"SublimeCodeIntel",
+		"TextFormatting",
+		"TortoiseSVN",
+		"ZZZ"
+	]
+}

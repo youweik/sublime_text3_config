@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"}},
+	{ "keys": ["alt+="], "command": "alignment" },
+	{"keys": ["alt+'"], "command": "quote_html", "args": {"action": "double"} } 
+]
